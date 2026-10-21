@@ -1,0 +1,2 @@
+customer_id,first_name,last_name,email,phone,date_of_birth,kyc_status,feed_timestamp
+C102,Ananya,Rao,ananya.rao@apexbank.in,+91-9845012345,1995-03-22,VERIFIED,2026-05-11 11:00:00

@@ -1,0 +1,3 @@
+transaction_id,account_id,customer_id,txn_type,amount,currency,merchant_city,channel,txn_timestamp
+TXN20260515001,ACC1001,C101,POS_PURCHASE,2500.00,INR,Bangalore,UPI,2026-05-15 13:20:00
+TXN20260520999,ACC1001,C101,WITHDRAWAL,80000.00,INR,Kolkata,ATM,2026-05-20 22:45:00

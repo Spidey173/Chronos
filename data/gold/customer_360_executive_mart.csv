@@ -1,0 +1,4 @@
+customer_id,full_name,email,phone,kyc_status,current_city,current_state,total_accounts,total_transactions,total_deposited,total_spent_or_withdrawn
+C101,Pruthvi Kumar,pruthvi.k@apexbank.in,+91-9876543210,VERIFIED,Bangalore,Karnataka,1,4,50000,92500
+C102,Ananya Rao,ananya.rao@apexbank.in,+91-9845012345,VERIFIED,Mumbai,Maharashtra,1,1,0,3499
+C103,Rahul Sharma,rahul.sharma@apexbank.in,+91-9711098765,VERIFIED,New Delhi,Delhi,1,0,0,0

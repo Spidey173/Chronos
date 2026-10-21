@@ -1,0 +1,2 @@
+address_id,customer_id,address_type,address_line_1,city,state,pincode,country,effective_date
+A002,C101,COMMUNICATION,"88 4th Cross, Koramangala 5th Block",Bangalore,Karnataka,560095,India,2026-05-11 00:00:00

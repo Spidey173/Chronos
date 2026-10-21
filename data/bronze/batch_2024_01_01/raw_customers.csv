@@ -1,0 +1,4 @@
+customer_id,first_name,last_name,email,phone,date_of_birth,kyc_status,feed_timestamp
+C101,Pruthvi,Kumar,pruthvi.k@apexbank.in,+91-9876543210,1998-07-14,VERIFIED,2024-01-01 09:00:00
+C102,Ananya,Rao,ananya.rao@apexbank.in,+91-9845012345,1995-03-22,PENDING,2024-01-01 09:15:00
+C103,Rahul,Sharma,rahul.sharma@apexbank.in,+91-9711098765,1992-11-05,VERIFIED,2024-01-01 09:30:00

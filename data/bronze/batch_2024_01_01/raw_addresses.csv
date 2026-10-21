@@ -1,0 +1,5 @@
+address_id,customer_id,address_type,address_line_1,city,state,pincode,country,effective_date
+A001,C101,COMMUNICATION,"12 Car Street, Near Temple",Udupi,Karnataka,576101,India,2024-01-01 00:00:00
+A001,C101,PERMANENT,"12 Car Street, Near Temple",Udupi,Karnataka,576101,India,2024-01-01 00:00:00
+A003,C102,COMMUNICATION,"404 Marine Drive, Nariman Point",Mumbai,Maharashtra,400021,India,2024-01-01 00:00:00
+A004,C103,COMMUNICATION,78 Connaught Place,New Delhi,Delhi,110001,India,2024-01-01 00:00:00

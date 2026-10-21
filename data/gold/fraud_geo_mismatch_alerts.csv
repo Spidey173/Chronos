@@ -1,0 +1,6 @@
+transaction_id,txn_timestamp,customer_id,customer_name,amount,channel,transaction_location,registered_city_at_txn_time,risk_classification
+TXN20240215001,2024-02-15 10:30:00,C101,Pruthvi Kumar,50000,BRANCH,Udupi,Udupi,NORMAL
+TXN20240620002,2024-06-20 18:45:12,C101,Pruthvi Kumar,10000,ATM,Udupi,Udupi,NORMAL
+TXN20240810003,2024-08-10 14:12:00,C102,Ananya Rao,3499,CARD,Mumbai,Mumbai,NORMAL
+TXN20260515001,2026-05-15 13:20:00,C101,Pruthvi Kumar,2500,UPI,Bangalore,Bangalore,NORMAL
+TXN20260520999,2026-05-20 22:45:00,C101,Pruthvi Kumar,80000,ATM,Kolkata,Bangalore,HIGH_RISK_GEO_MISMATCH

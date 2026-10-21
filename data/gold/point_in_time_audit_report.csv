@@ -1,0 +1,6 @@
+transaction_id,txn_timestamp,customer_id,customer_name,account_id,txn_type,amount,transaction_location,channel,registered_city_at_txn_time,registered_state_at_txn_time,registered_pincode_at_txn_time,address_type,address_effective_from,address_effective_to
+TXN20240215001,2024-02-15 10:30:00,C101,Pruthvi Kumar,ACC1001,DEPOSIT,50000,Udupi,BRANCH,Udupi,Karnataka,576101,COMMUNICATION,2024-01-01 00:00:00,2026-05-11 00:00:00
+TXN20240620002,2024-06-20 18:45:12,C101,Pruthvi Kumar,ACC1001,WITHDRAWAL,10000,Udupi,ATM,Udupi,Karnataka,576101,COMMUNICATION,2024-01-01 00:00:00,2026-05-11 00:00:00
+TXN20240810003,2024-08-10 14:12:00,C102,Ananya Rao,ACC1002,POS_PURCHASE,3499,Mumbai,CARD,Mumbai,Maharashtra,400021,COMMUNICATION,2024-01-01 00:00:00,
+TXN20260515001,2026-05-15 13:20:00,C101,Pruthvi Kumar,ACC1001,POS_PURCHASE,2500,Bangalore,UPI,Bangalore,Karnataka,560095,COMMUNICATION,2026-05-11 00:00:00,
+TXN20260520999,2026-05-20 22:45:00,C101,Pruthvi Kumar,ACC1001,WITHDRAWAL,80000,Kolkata,ATM,Bangalore,Karnataka,560095,COMMUNICATION,2026-05-11 00:00:00,
